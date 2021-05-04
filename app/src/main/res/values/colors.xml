@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--  Custom colors  -->
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#2962FF</color>
+    <color name="colorAccent40Alfa">#662962FF</color>
+    <color name="color_gray">#66000000</color>
+    <color name="background">#FAFAFA</color>
+    <color name="loading_background">#DFDFDF</color>
+    <color name="green">#00e676</color>
+    <color name="light_grey">#babdbe</color>
+    <!--  Indigo theme colors Primary -->
+    <color name="indigo">#1a237e</color>
+    <color name="indigo_light">#534bae</color>
+    <color name="indigo_dark">#000051</color>
+    <color name="indigo_text_color">#ffffff</color>
+    <!--  Indigo theme colors Secondary  -->
+    <color name="red">#ff1744</color>
+    <color name="red_light">#ff616f</color>
+    <color name="red_dark">#c4001d</color>
+    <color name="red_text_color">#000000</color>
+</resources>
